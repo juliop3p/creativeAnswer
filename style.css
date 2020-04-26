@@ -28,7 +28,8 @@ header.header {
   width: 100%;
   height: 100vh;
   background: linear-gradient(#1b1b3aad, #1b1b3aad),
-    url("./images/background.jpg") center/cover no-repeat fixed;
+    url("https://images.pexels.com/photos/3850263/pexels-photo-3850263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+      center/cover no-repeat fixed;
   position: relative;
 }
 
