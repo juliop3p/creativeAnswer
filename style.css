@@ -163,6 +163,10 @@ section.doubt {
   font-size: 2.2rem;
 }
 
+.ca-gr p strong {
+  font-size: 1.3rem;
+}
+
 .ca-gr p {
   font-size: 1.3rem;
 }
@@ -234,8 +238,6 @@ section.doubt {
   }
 }
 
-/* end Cards Group */
-
 @media (max-width: 950px) {
   .cards-group {
     flex-direction: column;
@@ -253,6 +255,8 @@ section.doubt {
   }
 }
 
+/* end Cards Group */
+
 @media (max-width: 850px) {
   .grid-2 {
     grid-template-columns: 1fr;
@@ -263,6 +267,7 @@ section.doubt {
 /* Section Desicion */
 
 .decision {
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -285,6 +290,7 @@ section.doubt {
   font-weight: 300;
   text-align: justify;
   padding: 20px;
+  text-indent: 40px;
 }
 
 /* end Section Decision */
