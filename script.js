@@ -1,3 +1,4 @@
+// Write machine animation
 const target = document.querySelector("[writeMachine]");
 const text =
   "Minha resposta a pergunta: Se você pudesse ser um aplicativo, qual você seria e por quê?";
@@ -7,6 +8,8 @@ const lettersArray = text.split("");
 lettersArray.forEach((elem, index) => {
   setTimeout(() => (target.innerHTML += elem), 75 * index);
 });
+
+// Scrolling animations
 
 const firstTarget = document.querySelectorAll(".card");
 const secondTarget = document.querySelectorAll(".ca-gr");
