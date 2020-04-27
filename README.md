@@ -1,4 +1,4 @@
-# Resposta criativa Brasil Generation
+# Resposta criativa Generation Brasil 
 
 ## A idéia foi fazer um site apresentando minha resposta criativa ao processo da Generation Brasil!
 
