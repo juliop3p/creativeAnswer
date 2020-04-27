@@ -2,7 +2,7 @@
 
 ## A idéia foi fazer um site apresentando minha resposta criativa ao processo da Generation Brasil!
 
-Confira o site atravez deste link [site link](https://respostacriativa.netlify.app/)
+Confira o site atravez deste link [ver site](https://respostacriativa.netlify.app/)
 
 ### Recomendo Google Chrome ou Mozila para ver o site.
 
